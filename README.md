@@ -3,6 +3,8 @@ IoT-2021-1 Class resource
 2021-03-02 IoT Class daily report
 
 2021/03/03_2일차
+
+```
 #include <stdio.h>
 
 int main()
@@ -90,3 +92,4 @@ int main()
 	
 	return 0;
 }
+```
